@@ -15,6 +15,6 @@ public class LT01_ESTDEC25 {
         }
         horas = duracao / 60;
         minutos =  duracao % 60;
-        JOptionPane.showMessageDialog(null,"O jogo durou "+horas+" horas e "+minutos+ " minutos.");
+        JOptionPane.showMessageDialog(null,"O jogo durou "+horas+" horas e "+minutos+ " minutos."); 
     }
 }
