@@ -5,7 +5,7 @@ public class LT01_ESTREP38 {
         n = Integer.parseInt(JOptionPane.showInputDialog("Digite o 1º número"));
         maior = n;
         menor = n;
-        for (int i = 2; i <= 5; i++) {
+        for (int i = 2; i <= 100; i++) {
             n = Integer.parseInt(JOptionPane.showInputDialog("Digite o "+i+"º número"));
             if (n > maior) {
                 maior = n;
