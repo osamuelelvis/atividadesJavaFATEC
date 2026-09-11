@@ -10,6 +10,6 @@ public class FUNREC04 {
         if (n == 1) {
             return 1.0 / denominador;
         }
-        return (double) n / denominador + calcular(n-1, denominador +1);
+        return (double) n / denominador + calcular(n - 1, denominador + 1);
     }
 }
