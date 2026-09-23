@@ -13,6 +13,5 @@ public class LT01_ESTSEQPROC16 {
 	slr_bruto = qtd_horas * vlr_hora;
 	slr_liquido = slr_bruto - (slr_bruto * (desconto / 100.0)) + (descendentes * 100);
         JOptionPane.showMessageDialog(null,"O sálario bruto final será de: R$"+slr_liquido);
-        return 0;
     }
 }
