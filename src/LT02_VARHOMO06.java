@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import javax.swing.JOptionPane;
-public class LT02_VARHOMO6 {
+public class LT02_VARHOMO06 {
     public static void main (String args[]) {
 	int vetor[] = new int[5];
 	for (int i = 0; i < 5; i++) {

@@ -1,6 +1,6 @@
 /*Criar vetor de 100 posições; Coletar vetor; Exibir maior e menor valor e média dos valores*/
 import javax.swing.JOptionPane;
-public class LT02_VARHOMO2 {
+public class LT02_VARHOMO02 {
     public static void main (String args[]) {
     	int vetor[] = new int[50];
 	int maior;

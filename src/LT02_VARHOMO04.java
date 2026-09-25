@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class LT02_VARHOMO4 {
+public class LT02_VARHOMO04 {
     public static void main (String args[]) {
 	double vetor[] = new double[30];
 	double media;

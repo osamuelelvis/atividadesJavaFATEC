@@ -1,6 +1,6 @@
 /*Criar vetor; Coletar vetor; Calcular média dos valores entre 10 e 200 e soma dos ímpares; Exibir resultados*/
 import javax.swing.JOptionPane;
-public class LT02_VARHOMO1 {
+public class LT02_VARHOMO01 {
     public static void main(String args[]) {
         int vetor[] = new int[50];
         int soma = 0;

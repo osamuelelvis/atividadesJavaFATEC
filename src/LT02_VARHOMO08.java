@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class LT02_VARHOMO8 {
+public class LT02_VARHOMO08 {
     public static void main (String args[]) {
 	int matriz[][] = new int[4][3];
 	for (int i = 0; i < 4; i++) {
